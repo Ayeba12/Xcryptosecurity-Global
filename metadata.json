@@ -1,0 +1,6 @@
+{
+  "name": "Xcrypto-Trading Security Global",
+  "description": "Empowering traders and communities with raw security auditing, threat vectors mapping, and uncompromising safety standards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
